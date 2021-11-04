@@ -1,0 +1,23 @@
+{
+  "name": "vue-cryptico",
+  "version": "1.0.0",
+  "description": "An easy-to-use encryption system utilizing RSA and AES for javascript, wrapped into a Vue plugin.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binaryrocket/vue-cryptico.git"
+  },
+  "keywords": [
+    "javascript",
+    "vuejs",
+    "encryption",
+    "rsa"
+  ],
+  "author": "BINARY ROCKET INC.",
+  "license": "BSD-4-Clause",
+  "bugs": {
+    "url": "https://github.com/binaryrocket/vue-cryptico/issues"
+  },
+  "homepage": "https://github.com/binaryrocket/vue-cryptico#readme"
+}
