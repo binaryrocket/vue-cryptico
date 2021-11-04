@@ -4,11 +4,17 @@ The [cryptico](https://github.com/wwwtyro/cryptico) package wrapped into a Vue p
 
 ## Installation
 
+### NPM
+
+```bash
+npm i vue-cryptico
+```
+
 ### Vue.js
 
 ```javascript
-import 'VueCryptico' from 'vue-cryptico';
-Vue.use(cryptico);
+import { VueCryptico } from "vue-cryptico";
+Vue.use(VueCryptico);
 ```
 
 ### NuxtJS
@@ -16,8 +22,8 @@ Vue.use(cryptico);
 Create a plugin file (at `~/plugins/cryptico.js` for example.)
 
 ```javascript
-import 'VueCryptico' from 'vue-cryptico';
-Vue.use(cryptico);
+import { VueCryptico } from "vue-cryptico";
+Vue.use(VueCryptico);
 ```
 
 Register your plugin in `nuxt.config.js`.
