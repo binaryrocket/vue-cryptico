@@ -15,7 +15,7 @@
     "rsa"
   ],
   "author": "BINARY ROCKET INC.",
-  "license": "BSD-4-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/binaryrocket/vue-cryptico/issues"
   },
